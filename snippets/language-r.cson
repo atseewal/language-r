@@ -14,9 +14,6 @@
   'Cummulative max':
     'prefix': 'cumi'
     'body': 'cummax(${1:x})'
-  'Cummulative max':
-    'prefix': 'cuma'
-    'body': 'cummin(${1:x})'
   'Data Frame':
     'prefix': 'daf'
     'body': 'data.frame(${1:\...}, ${2:row.names = ${3:NULL}}, ${4:check.rows = ${5:FALSE}}, ${6:check.names = ${7:TRUE}}, ${8:stringsAsFactors = ${9:default.stringsAsFactors()}})'
